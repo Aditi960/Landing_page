@@ -26,7 +26,7 @@ const Index = () => {
       label: "Portfolio",
     },
     {
-      href: "https://leetcode.com/u/Aditi_thakare/",
+      href: "https://leetcode.com/u/PO1bgkhm6o/",
       icon: Code2,
       label: "LeetCode",
     },
